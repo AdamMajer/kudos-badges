@@ -1,3 +1,5 @@
+Testing change for SHA1
+
 # 🏅 openSUSE Kudos Badges
 
 <img width="737" height="220" alt="image" src="https://github.com/user-attachments/assets/e46c4aff-b900-49c6-b0ff-7bf264f66a41" />
